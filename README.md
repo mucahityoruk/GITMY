@@ -1,0 +1,2 @@
+# GITMY
+git deneme
